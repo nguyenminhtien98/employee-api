@@ -4,7 +4,7 @@ Mock REST API for Employee Management System using JSON Server.
 
 ## Base URL
 
-Production: `https://your-app-name.onrender.com`
+Production: `https://employee-api-b3kn.onrender.com`
 
 ## Endpoints
 
